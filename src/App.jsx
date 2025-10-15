@@ -1,17 +1,14 @@
-import Footer from "./Footer/Footer"
-import Header from "./Header/Header"
-import MainArea from "./MainAreaa/MainArea"
-
-
+import React from 'react'
+import StudentsTable from './student/StudentsTable'
 function App() {
-    return (
-      <div style={{border:"2"}}>
-        {/* <h1>This is My React Component </h1> */}
-        <Header></Header>
-        <MainArea></MainArea>
-        <Footer></Footer>
-      </div>
+  // console.log(students);
+  return (
+    <div>
+      <h1>Students Table</h1>
+      <StudentsTable></StudentsTable>
+    </div>
   )
-}
+}       
+           
 
 export default App

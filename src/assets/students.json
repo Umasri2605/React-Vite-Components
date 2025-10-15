@@ -1,0 +1,162 @@
+ [
+    {
+      "firstName": "Aarav",
+      "lastName": "Sharma",
+      "age": 15,
+      "gender": "Male",
+      "fatherName": "Rajesh Sharma",
+      "motherName": "Pooja Sharma"
+    },
+    {
+      "firstName": "Diya",
+      "lastName": "Patel",
+      "age": 14,
+      "gender": "Female",
+      "fatherName": "Suresh Patel",
+      "motherName": "Meena Patel"
+    },
+    {
+      "firstName": "Rohan",
+      "lastName": "Verma",
+      "age": 16,
+      "gender": "Male",
+      "fatherName": "Anil Verma",
+      "motherName": "Sunita Verma"
+    },
+    {
+      "firstName": "Sanya",
+      "lastName": "Nair",
+      "age": 15,
+      "gender": "Female",
+      "fatherName": "Vijay Nair",
+      "motherName": "Latha Nair"
+    },
+    {
+      "firstName": "Karan",
+      "lastName": "Mehta",
+      "age": 17,
+      "gender": "Male",
+      "fatherName": "Rakesh Mehta",
+      "motherName": "Anita Mehta"
+    },
+    {
+      "firstName": "Ananya",
+      "lastName": "Reddy",
+      "age": 14,
+      "gender": "Female",
+      "fatherName": "Srinivas Reddy",
+      "motherName": "Lakshmi Reddy"
+    },
+    {
+      "firstName": "Ishaan",
+      "lastName": "Gupta",
+      "age": 16,
+      "gender": "Male",
+      "fatherName": "Pradeep Gupta",
+      "motherName": "Neha Gupta"
+    },
+    {
+      "firstName": "Meera",
+      "lastName": "Iyer",
+      "age": 15,
+      "gender": "Female",
+      "fatherName": "Raghav Iyer",
+      "motherName": "Shalini Iyer"
+    },
+    {
+      "firstName": "Aditya",
+      "lastName": "Kumar",
+      "age": 17,
+      "gender": "Male",
+      "fatherName": "Mahesh Kumar",
+      "motherName": "Rekha Kumar"
+    },
+    {
+      "firstName": "Priya",
+      "lastName": "Das",
+      "age": 14,
+      "gender": "Female",
+      "fatherName": "Arun Das",
+      "motherName": "Kavita Das"
+    },
+    {
+        "firstName": "Neha",
+        "lastName": "Singh",
+        "age": 15,
+        "gender": "Female",
+        "fatherName": "Ravi Singh",
+        "motherName": "Anita Singh"
+      },
+      {
+        "firstName": "Arjun",
+        "lastName": "Chopra",
+        "age": 16,
+        "gender": "Male",
+        "fatherName": "Sanjay Chopra",
+        "motherName": "Reema Chopra"
+      },
+      {
+        "firstName": "Tanya",
+        "lastName": "Bose",
+        "age": 14,
+        "gender": "Female",
+        "fatherName": "Kunal Bose",
+        "motherName": "Madhuri Bose"
+      },
+      {
+        "firstName": "Rahul",
+        "lastName": "Yadav",
+        "age": 17,
+        "gender": "Male",
+        "fatherName": "Mohan Yadav",
+        "motherName": "Geeta Yadav"
+      },
+      {
+        "firstName": "Sneha",
+        "lastName": "Pillai",
+        "age": 15,
+        "gender": "Female",
+        "fatherName": "Gopinath Pillai",
+        "motherName": "Devika Pillai"
+      },
+      {
+        "firstName": "Vikram",
+        "lastName": "Joshi",
+        "age": 16,
+        "gender": "Male",
+        "fatherName": "Rajiv Joshi",
+        "motherName": "Asha Joshi"
+      },
+      {
+        "firstName": "Pooja",
+        "lastName": "Ghosh",
+        "age": 14,
+        "gender": "Female",
+        "fatherName": "Subhash Ghosh",
+        "motherName": "Sangeeta Ghosh"
+      },
+      {
+        "firstName": "Nikhil",
+        "lastName": "Shetty",
+        "age": 17,
+        "gender": "Male",
+        "fatherName": "Manoj Shetty",
+        "motherName": "Radha Shetty"
+      },
+      {
+        "firstName": "Aisha",
+        "lastName": "Khan",
+        "age": 15,
+        "gender": "Female",
+        "fatherName": "Imran Khan",
+        "motherName": "Zarina Khan"
+      },
+      {
+        "firstName": "Kunal",
+        "lastName": "Banerjee",
+        "age": 16,
+        "gender": "Male",
+        "fatherName": "Siddharth Banerjee",
+        "motherName": "Meera Banerjee"
+      }
+  ]
