@@ -15,6 +15,7 @@ function StudentsTable() {
     //    else{return -1}
     // })
     // SetAllStudents([...temp])
+    
     SetAllStudents((currentStudents)=>{
        currentStudents.sort((a,b)=>{
         if(a[key]>b[key]){
